@@ -2,7 +2,7 @@
 
 React JS project.
 
-link
+https://8-ecommerceapp.netlify.app/
 
 # Getting Started with Create React App
 
